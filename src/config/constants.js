@@ -9,7 +9,7 @@ const APPLE_START = [8, 3]
 
 const SCALE = 40
 
-const SPEED = 100
+const SPEED = 500
 
 const DIRECTIONS = {
   38: [0, -1], // up
